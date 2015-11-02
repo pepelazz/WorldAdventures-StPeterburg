@@ -42,6 +42,7 @@ p a {
     padding-bottom:1px;
     border-bottom:1px dotted rgba(255,255,255,0.4);
     font-family: 'Oranienbaum', serif;
+    color: rgb(92, 184, 92);
 }
 p a:hover {
     border-color:#fff;
